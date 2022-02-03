@@ -2,7 +2,7 @@
 
 # 1QS
 
-##ALGORITHM;
+## ALGORITHM;
 
 step 1:start the program.create an empty array for the output.
 
@@ -18,7 +18,7 @@ step 6:print the output.
 
 step 7:stop.
 
-##PSEUDOCODE;
+## PSEUDOCODE;
 
 ```
 LET prime1 = [];
@@ -59,7 +59,7 @@ END
 
 # 2QS
 
-##ALGORITHM;
+## ALGORITHM;
 
 step 1:start the program.create two arrays.
 
@@ -71,7 +71,7 @@ step 4:print the output.
 
 step 5:stop.
 
-##PSEUDOCODE;
+## PSEUDOCODE;
 
 ```
 LET a = [1,2,3,4,5];
@@ -93,7 +93,7 @@ END
 
 # 3QS
 
-##ALGORITHM;
+## ALGORITHM;
 
 step 1:start the program.enter the function.
 
@@ -109,7 +109,7 @@ step 6:print the output.
 
 step 7:stop.
 
-##PSEUDOCODE;
+## PSEUDOCODE;
 
 ```
 FUNCTION anatomy(a,b){
@@ -131,7 +131,7 @@ END
 
 # 4QS
 
-##ALGORITHM;
+## ALGORITHM;
 
 step 1:stert the program.enter CONST and create an function to define to that CONST. 
 
@@ -145,7 +145,7 @@ step 5:print the output.
 
 step 6:stop.
 
-##PSEUDOCODE;
+## PSEUDOCODE;
 
 ```
 CONST fun3 = function (){return "this is function ";};
@@ -164,7 +164,7 @@ END
 
 # 5QS
 
-##ALGORITHM;
+## ALGORITHM;
 
 step 1:start the program.enter the named function with params.
 
@@ -176,7 +176,7 @@ step 4:print the output.
 
 step 5:stop.
 
-##PSEUDOCODE;
+## PSEUDOCODE;
 
 ```
 FUNCTION funthis(name,age){
@@ -190,7 +190,7 @@ END
 
 # 6QS
 
-##ALGORITHM;
+## ALGORITHM;
 
 step 1:start the program.enter the function.
 
@@ -206,7 +206,7 @@ step 6:print the output.
 
 step 7:stop.
 
-##PSEUDOCODE;
+## PSEUDOCODE;
 
 ```
 //function.this
@@ -256,7 +256,7 @@ END
 
 # 7QS
 
-##ALGORITHM;
+## ALGORITHM;
 
 step 1:start the program.
 
@@ -268,7 +268,7 @@ step 4:print the output.
 
 step 5:stop.
 
-##PSEUDOCODE;
+## PSEUDOCODE;
 
 ```
 //filter
@@ -292,7 +292,7 @@ END
 
 # 8QS
 
-##ALGORITHM;
+## ALGORITHM;
 
 step 1:start the program.entet the start and end values.
 
@@ -304,7 +304,7 @@ step 4:print the output.
 
 step 5:stop.
 
-##PSEUDOCODE;
+## PSEUDOCODE;
 
 ```
 CONST start = 1;
@@ -320,7 +320,7 @@ CONST end = 500;
 
 # 9QS
 
-##ALGORITHM;
+## ALGORITHM;
 
 step 1:start the program.enter an function.
 
@@ -332,7 +332,7 @@ step 4:print the output.
 
 step 5:stop.
 
-##PSEUDOCODE;
+## PSEUDOCODE;
 
 ```
 FUNCTION missing(array){
@@ -352,7 +352,7 @@ END
 
 # 10QS
 
-##ALGORITHM;
+## ALGORITHM;
 
 step 1:start the program.enter an function.
 
@@ -364,7 +364,7 @@ step 4:print the output.
 
 step 5:stop.
 
-##PSEUDOCODE;
+## PSEUDOCODE;
 
 ```
 CONST age = function (BornYear){
@@ -379,7 +379,7 @@ END
 
 # 11QS
 
-##ALGORITHM;
+## ALGORITHM;
 
 step 1:start the program.enter the values in value_a.
 
@@ -393,7 +393,7 @@ step 5:print the output.
 
 step 6:stop.
 
-##PSEUDOCODE;
+## PSEUDOCODE;
 
 ```
 LET value_a = 2;
@@ -422,7 +422,7 @@ END
 
 # 12QS
 
-##ALGORITHM;
+## ALGORITHM;
 
 step 1:start the program.
 
@@ -434,7 +434,7 @@ step 4:call the arguments.print the program.
 
 step 5:stop.
 
-##PSEUDOCODE;
+## PSEUDOCODE;
 
 ```
 FUNCTION arity(a,b,c){
@@ -447,7 +447,7 @@ END
 
 # 13QS
 
-##ALGORITHM;
+## ALGORITHM;
 
 step 1:start the program .enter the function.
 
@@ -459,7 +459,7 @@ step 4:print the program.
 
 step 5:stop.
 
-##PSEUDOCODE;
+## PSEUDOCODE;
 
 ```
 LET curry = FUNCTION(num1){
@@ -482,7 +482,7 @@ END
 
 # 14QS
 
-##ALGORITHM;
+## ALGORITHM;
 
 step 1:start the program.
 
@@ -491,7 +491,7 @@ step 2:write about ECMA6 as comments.
 step 3:stop .
 
 
-##PSEUDOCODE;
+## PSEUDOCODE;
 
 ```
 //European Computer Manufacturer's Association.
@@ -530,7 +530,7 @@ step 3:stop .
 
 # 15QS
 
-##ALGORITHM;
+## ALGORITHM;
 
 step 1:start the program.
 
@@ -542,7 +542,7 @@ step 4:print the program.
 
 step 5:stop.
 
-##PSEUDOCODE;
+## PSEUDOCODE;
 
 ```
 //anonymous functions donot have names with it.
@@ -576,7 +576,7 @@ END
 
 # 16QS
 
-##ALGORITHM;
+## ALGORITHM;
 
 step 1:Start. Enter the named function
 
@@ -594,7 +594,7 @@ step 7:assign the values .print the output.
 
 step 8:end the program.
 
-##PSEUDOCODE;
+## PSEUDOCODE;
 
 ```
 //named function
