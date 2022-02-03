@@ -4,6 +4,16 @@
 
 ##ALGORITHM;
 
+step 1:
+
+step 2:
+
+step 3:
+
+step 4:
+
+step 5:
+
 ##PSEUDOCODE;
 
 ```
@@ -47,6 +57,16 @@ END
 
 ##ALGORITHM;
 
+step 1:
+
+step 2:
+
+step 3:
+
+step 4:
+
+step 5:
+
 ##PSEUDOCODE;
 
 ```
@@ -70,6 +90,18 @@ END
 # 3QS
 
 ##ALGORITHM;
+
+step 1:
+
+step 2:
+
+step 3:
+
+step 4:
+
+step 5:
+
+step 6:
 
 ##PSEUDOCODE;
 
@@ -95,6 +127,16 @@ END
 
 ##ALGORITHM;
 
+step 1:
+
+step 2:
+
+step 3:
+
+step 4:
+
+step 5:
+
 ##PSEUDOCODE;
 
 ```
@@ -116,6 +158,18 @@ END
 
 ##ALGORITHM;
 
+step 1:
+
+step 2:
+
+step 3:
+
+step 4:
+
+step 5:
+
+step 6:
+
 ##PSEUDOCODE;
 
 ```
@@ -131,6 +185,18 @@ END
 # 6QS
 
 ##ALGORITHM;
+
+step 1:
+
+step 2:
+
+step 3:
+
+step 4:
+
+step 5:
+
+step 6:
 
 ##PSEUDOCODE;
 
@@ -184,6 +250,16 @@ END
 
 ##ALGORITHM;
 
+step 1:
+
+step 2:
+
+step 3:
+
+step 4:
+
+step 5:
+
 ##PSEUDOCODE;
 
 ```
@@ -210,6 +286,16 @@ END
 
 ##ALGORITHM;
 
+step 1:
+
+step 2:
+
+step 3:
+
+step 4:
+
+step 5:
+
 ##PSEUDOCODE;
 
 ```
@@ -227,6 +313,16 @@ CONST end = 500;
 # 9QS
 
 ##ALGORITHM;
+
+step 1:
+
+step 2:
+
+step 3:
+
+step 4:
+
+step 5:
 
 ##PSEUDOCODE;
 
@@ -250,6 +346,16 @@ END
 
 ##ALGORITHM;
 
+step 1:
+
+step 2:
+
+step 3:
+
+step 4:
+
+step 5:
+
 ##PSEUDOCODE;
 
 ```
@@ -266,6 +372,16 @@ END
 # 11QS
 
 ##ALGORITHM;
+
+step 1:
+
+step 2:
+
+step 3:
+
+step 4:
+
+step 5:
 
 ##PSEUDOCODE;
 
@@ -298,6 +414,16 @@ END
 
 ##ALGORITHM;
 
+step 1:
+
+step 2:
+
+step 3:
+
+step 4:
+
+step 5:
+
 ##PSEUDOCODE;
 
 ```
@@ -312,6 +438,16 @@ END
 # 13QS
 
 ##ALGORITHM;
+
+step 1:
+
+step 2:
+
+step 3:
+
+step 4:
+
+step 5:
 
 ##PSEUDOCODE;
 
@@ -337,6 +473,16 @@ END
 # 14QS
 
 ##ALGORITHM;
+
+step 1:
+
+step 2:
+
+step 3:
+
+step 4:
+
+step 5:
 
 ##PSEUDOCODE;
 
@@ -379,6 +525,16 @@ END
 
 ##ALGORITHM;
 
+step 1:
+
+step 2:
+
+step 3:
+
+step 4:
+
+step 5:
+
 ##PSEUDOCODE;
 
 ```
@@ -414,6 +570,16 @@ END
 # 16QS
 
 ##ALGORITHM;
+
+step 1:
+
+step 2:
+
+step 3:
+
+step 4:
+
+step 5:
 
 ##PSEUDOCODE;
 
