@@ -1,0 +1,98 @@
+# Evaluation2
+
+# 1QS
+
+###ALGORITHM;
+
+###PSEUDOCODE;
+
+# 2QS
+
+###ALGORITHM;
+
+###PSEUDOCODE;
+
+
+# 3QS
+
+###ALGORITHM;
+
+###PSEUDOCODE;
+
+# 4QS
+
+###ALGORITHM;
+
+###PSEUDOCODE;
+
+# 5QS
+
+###ALGORITHM;
+
+###PSEUDOCODE;
+
+# 6QS
+
+###ALGORITHM;
+
+###PSEUDOCODE;
+
+# 7QS
+
+###ALGORITHM;
+
+###PSEUDOCODE;
+
+# 8QS
+
+###ALGORITHM;
+
+###PSEUDOCODE;
+
+# 9QS
+
+###ALGORITHM;
+
+###PSEUDOCODE;
+
+# 10QS
+
+###ALGORITHM;
+
+###PSEUDOCODE;
+
+# 11QS
+
+###ALGORITHM;
+
+###PSEUDOCODE;
+
+# 12QS
+
+###ALGORITHM;
+
+###PSEUDOCODE;
+
+# 13QS
+
+###ALGORITHM;
+
+###PSEUDOCODE;
+
+# 14QS
+
+###ALGORITHM;
+
+###PSEUDOCODE;
+
+# 15QS
+
+###ALGORITHM;
+
+###PSEUDOCODE;
+
+# 15QS
+
+###ALGORITHM;
+
+###PSEUDOCODE;
