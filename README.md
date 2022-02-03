@@ -4,15 +4,19 @@
 
 ##ALGORITHM;
 
-step 1:
+step 1:start the program.create an empty array for the output.
 
-step 2:
+step 2:create an function.use 'for' loop to define whether the condition is satisfied or not.
 
-step 3:
+step 3:inside the external 'for' loop enter i and assign i is less than the given number.hence the condition is satisfied.
 
-step 4:
+step 4:the it moves to the another 'for' loop if the condition is satisfied.
 
-step 5:
+step 5:the values will move to k and kept in empty array.if the statement doesnot satisfy the condition the loop will break.
+
+step 6:print the output.
+
+step 7:stop.
 
 ##PSEUDOCODE;
 
