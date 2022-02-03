@@ -30,7 +30,7 @@ FUNCTION prime(number) {
         k = 2; 
         FOR (j = k; j <= i; j++) {
 
-            IF (i % j === 0) {
+           IF (i % j === 0) {
                 IF (i === 2) {
                     prime1[m] = i;
                     PRINT(prime1[m]);
