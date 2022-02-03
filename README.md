@@ -5,62 +5,66 @@
 ##ALGORITHM;
 
 ##PSEUDOCODE;
-let prime1 = [];
-// let Notprime = [];
-let l = 0;
-let m = 0;
-let k;
-function prime(number) {
-    // k = 2;
-    // console.log("2");
-    for (i = 2; i <= number; i++) {
-        k = 2; 
-        for (j = k; j <= i; j++) {
 
-            if (i % j === 0) {
-                if (i === 2) {
+```
+LET prime1 = [];
+LET l = 0;
+LET m = 0;
+LET k;
+FUNCTION prime(number) {
+    FOR (i = 2; i <= number; i++) {
+        k = 2; 
+        FOR (j = k; j <= i; j++) {
+
+            IF (i % j === 0) {
+                IF (i === 2) {
                     prime1[m] = i;
-                    console.log(prime1[m]);
+                    PRINT(prime1[m]);
                 }
                 l++
-                break;
+                BREAK;
             }
 
-            if (j === i - 1) {
-                if (i % j != 0) {
+            IF (j === i - 1) {
+                IF (i % j != 0) {
                     m++;
                     prime1[m] = i;
-                    console.log(prime1[m]);
-                    break;
+                    PRINT(prime1[m]);
+                    BREAK;
                 }
             }
         }
         ++k;
     }
-    // console.log(Notprime);
 
 }
 
 prime(200);
+END
+```
 
 # 2QS
 
 ##ALGORITHM;
 
 ##PSEUDOCODE;
-let a = [1,2,3,4,5];
-let b = [2,3,5,7,8];
-let c = [];
-let k = 0;
-for(i=0;i<a.length;i++){
-    for(j=0;j<b.length;j++){
-        if(a[i] == b[j]){
+
+```
+LET a = [1,2,3,4,5];
+LET b = [2,3,5,7,8];
+LET c = [];
+LET k = 0;
+FOR(i=0;i<a.length;i++){
+    FOR(j=0;j<b.length;j++){
+        IF(a[i] == b[j]){
             c[k] = b[j];
             k++;
         }
     }
 }
-console.log(c);
+PRINT(c);
+END
+```
 
 
 # 3QS
@@ -68,193 +72,227 @@ console.log(c);
 ##ALGORITHM;
 
 ##PSEUDOCODE;
-function anatomy(a,b){
-    return console.log(a*b);
+
+```
+FUNCTION anatomy(a,b){
+    RETURN PRINT(a*b);
 }
 anatomy(2,3);
 
-let anonymous = function (){
-    console.log("anonym");
+LET anonymous = function (){
+    PRINT("anonym");
 }
 anonymous();
 
-var assigning1 = function (a,b){
-    console.log('another',a+b,'example');
+VAR assigning1 = function (a,b){
+    PRINT('another',a+b,'example');
 }
 assigning1(2,5);
+END
+```
 
 # 4QS
 
 ##ALGORITHM;
 
 ##PSEUDOCODE;
-const fun3 = function (){return "this is function ";};
-function fun2(func){
-    if(typeof func == "function"){
-        console.log(func());
+
+```
+CONST fun3 = function (){return "this is function ";};
+FUNCTION fun2(func){
+    IF(typeof func == "function"){
+        PRINT(func());
     }
-    else {
-        console.log("this is not a function");
+    ELSE {
+        PRINT("this is not a function");
     }
 }
 fun2(fun3);
 fun2();
+END
+```
 
 # 5QS
 
 ##ALGORITHM;
 
 ##PSEUDOCODE;
-function funthis(name,age){
-    this.name = name;
-    this.age = age;
+
+```
+FUNCTION funthis(name,age){
+    THIS.name = name;
+    THIS.age = age;
 }
-const THis1 = new funthis('kumar',90);
-console.log(THis1.name,THis1.age);
+CONST THis1 = new funthis('kumar',90);
+PRINT(THis1.name,THis1.age);
+END
+```
 
 # 6QS
 
 ##ALGORITHM;
 
 ##PSEUDOCODE;
+
+```
 //function.this
-var example = function () {
-    console.log(this);
+VAR example = function () {
+    PRINT(this);
   };
   
-  var obj = new example();
-  console.log(obj);
+  VAR obj = new example();
+  PRINT(obj);
 
-  let person = {
+  LET person = {
       name : "johnwicks",
       age : 50,
       town : "california",
       bio : function (){
-         return (this.name+'is'+this.age+'years old');
+         RETURN (this.name+'is'+this.age+'years old');
       }
       
   };
-  console.log(person.bio());
+  PRINT(person.bio());
 
   //class.this
-  class TestClass {
-    constructor(myName) {
-        this.name = myName;
+  CLASS TestClass {
+    CONSTRUCTOR(myName) {
+        THIS.name = myName;
     }
 
     updateName() {
-        return this.name;
+        RETURN this.name;
     }
 }
 
-TestClass.updateName2 = function() {
+TestClass.updateName2 = FUNCTION() {
     //won't actually print the name variable set since not associated with an instance of the class?
-    console.log(this.name);
+    PRINT(this.name);
 };
 
-var test = new TestClass("Joe");
+VAR test = new TestClass("Joe");
 
-console.log(test.updateName());
+PRINT(test.updateName());
 
 ///////////////
 
 TestClass.updateName2();
+END
+```
 
 # 7QS
 
 ##ALGORITHM;
 
 ##PSEUDOCODE;
+
+```
 //filter
-const fruit = ['apple','orange','pineapple','peach','mango'];
-let filterfruit = fruit.filter(fruit => (fruit.length>5));
-console.log(filterfruit);
+CONST fruit = ['apple','orange','pineapple','peach','mango'];
+LET filterfruit = fruit.FILTER(fruit => (fruit.length>5));
+PRINT(filterfruit);
 
 //map
-const numbers = [1,2,3,4,5];
-let modifiednumber = numbers.map(numbers => (numbers*5));
-console.log(modifiednumber);
+CONST numbers = [1,2,3,4,5];
+LET modifiednumber = numbers.MAP(numbers => (numbers*5));
+PRINT(modifiednumber);
 
 //reduce
-let Number = [2,3,4,5];
-const sum = Number.reduce((accmulator,currentvalue) => {
-    return accmulator+currentvalue ; 
+LET Number = [2,3,4,5];
+CONST sum = Number.REDUCE((accmulator,currentvalue) => {
+    RETURN accmulator+currentvalue ; 
 },0);
-console.log(sum);
+PRINT(sum);
+END
+```
 
 # 8QS
 
 ##ALGORITHM;
 
 ##PSEUDOCODE;
-const start = 1;
-const end = 500;
-         let count = 0;
-        for(let i = start ; i <= end ; i++ ){
-            const numberToString = i + "" ;
-            count += numberToString.split("0").length - 1;
+
+```
+CONST start = 1;
+CONST end = 500;
+         LET count = 0;
+        FOR(let i = start ; i <= end ; i++ ){
+            CONST numberToString = i + "" ;
+            CONST += numberToString.split("0").length - 1;
         }
-        console.log(count);
+        PRINT(count);
+        END
+```        
 
 # 9QS
 
 ##ALGORITHM;
 
 ##PSEUDOCODE;
-function missing(array){
-    let MissingArray = [];
-    let MinmumNum = Math.min(...array);
-    let MaximumNum = Math.max(...array);
-    for(let i=MinmumNum;i<MaximumNum;i++){
-        if(array.indexOf(i) < 0){
-            MissingArray.push(i);
+
+```
+FUNCTION missing(array){
+    LET MissingArray = [];
+    LET MinmumNum = MATH.min(...array);
+    LET MaximumNum = MATH.max(...array);
+    FOR(LET i=MinmumNum;i<MaximumNum;i++){
+        IF(array.indexOf(i) < 0){
+            MissingArray.PUSH(i);
         }
     }
-    return MissingArray;
+    RETURN MissingArray;
 }
-console.log(missing([1,2,4,5,7]));	
+PRINT(missing([1,2,4,5,7]));	
+END
+```
 
 # 10QS
 
 ##ALGORITHM;
 
 ##PSEUDOCODE;
-const age = function (BornYear){
-     let date = new Date();
-     let presentyear = date.getFullYear();
-     let Year = presentyear-BornYear;
-      console.log(Year);
+
+```
+CONST age = function (BornYear){
+     LET date = new Date();
+     LET presentyear = date.getFullYear();
+     LET Year = presentyear-BornYear;
+      PRINT(Year);
 };
 age(1998);
+END
+```
 
 # 11QS
 
 ##ALGORITHM;
 
 ##PSEUDOCODE;
-let value_a = 2;
-let value_b = value_a;
-value_a = 3;
-console.log(value_b);
-console.log(value_a);
 
-let old_a = 2;
-function update_a(b){
+```
+LET value_a = 2;
+LET value_b = value_a;
+value_a = 3;
+PRINT(value_b);
+PRINT(value_a);
+
+LET old_a = 2;
+FUNCTION update_a(b){
        b = 3;
-      console.log(b);
+      PRINT(b);
 }
 update_a(old_a);
-console.log(old_a);
+PRINT(old_a);
 
 
-var val_1 = {id : "good"};
-var val_2 ;
+VAR val_1 = {id : "good"};
+VAR val_2 ;
 val_2 = val_1;
 val_1.id = "im good";
-console.log(val_1);
-console.log(val_2);
-
-
+PRINT(val_1);
+PRINT(val_2);
+END
+```
 
 # 12QS
 
@@ -262,39 +300,47 @@ console.log(val_2);
 
 ##PSEUDOCODE;
 
-function arity(a,b,c){
-   let length = arity.length;
-    console.log(length)
+```
+FUNCTION arity(a,b,c){
+   LET length = arity.LENGTH;
+    PRINT(length)
 }
 arity(5,6,7);
+END
+```
 
 # 13QS
 
 ##ALGORITHM;
 
 ##PSEUDOCODE;
-let curry = function(num1){
-    return function(num2){
-        return function(num3){
-            return num1+num2+num3;
+
+```
+LET curry = FUNCTION(num1){
+    RETURN FUNCTION(num2){
+        RETURN FUNCTION(num3){
+            RETURN num1+num2+num3;
         }
     }
 }
-console.log(curry(6)(7)(8));
+PRINT(curry(6)(7)(8));
 
 //||
 
 
-let cur = (number1) => (number2) => (number3) => number1*number2*number3;
+LET cur = (number1) => (number2) => (number3) => number1*number2*number3;
 
-console.log(cur(3)(4)(5));
-
+PRINT(cur(3)(4)(5));
+END
+```
 
 # 14QS
 
 ##ALGORITHM;
 
 ##PSEUDOCODE;
+
+```
 //European Computer Manufacturer's Association.
 //ES6 stands for ECMAScript 6. ECMAScript was created to 
 //standardize JavaScript, and ES6 is the 6th version of ECMAScript, 
@@ -327,22 +373,25 @@ console.log(cur(3)(4)(5));
 // New Number Properties
 // New Number Methods
 // New Global Methods
+```
 
 # 15QS
 
 ##ALGORITHM;
 
 ##PSEUDOCODE;
+
+```
 //anonymous functions donot have names with it.
-let anonymous = function (){
-    console.log("anonym");
+LET anonymous = FUNCTION (){
+    PRINT("anonym");
 }
 anonymous();
 //anonymous functions are arguments being passed to higher order functions.
 //if afunction is used only one or limited number of times anonymous is used.
 //it is lighter than named functions.
-let random = function(){
-    return console.log(Math.random());
+LET random = FUNCTION(){
+    RETURN PRINT(Math.random());
 }
 random();
 //(WHY DO WE USE)
@@ -353,34 +402,40 @@ random();
 //anonymous functions is as arguments to other functions.as a closure, 
 //for which see also the Closures chapter.
 // Use as an argument to other functions: 
-setTimeout(function() { console.log('hi'); }, 1000);
+setTimeout(FUNCTIONJ() { PRINT('hi'); }, 1000);
 
-let argument = function (){
-    console.log("hello");
+LET argument = FUNCTION (){
+    PRINT("hello");
 }
 argument();
+END
+```
 
 # 16QS
 
 ##ALGORITHM;
 
 ##PSEUDOCODE;
+
+```
 //named function
-function named(a,b){
-    return console.log(a*b);
+FUNCTION named(a,b){
+    RETURN PRINT(a*b);
 }
 named(1, 2);
 
 
 //assigning function
-var assigning = (a,b) => {
-    console.log('hi',a+b);
+VAR assigning = (a,b) => {
+    PRINT('hi',a+b);
 }
 
 assigning(2,3);
 
-var assigning1 = function (a,b){
-    console.log('another',a+b,'example');
+VAR assigning1 = FUNCTION (a,b){
+    PRINT('another',a+b,'example');
 }
 assigning1(2,5);
+END
+```
 
