@@ -571,15 +571,21 @@ END
 
 ##ALGORITHM;
 
-step 1:
+step 1:Start. Enter the named function
 
-step 2:
+step 2:return function perameters.
 
-step 3:
+step 3:call the values of the perameters .
 
-step 4:
+step 4:print the output.
 
-step 5:
+step 5:assign an variable .
+
+step 6:enter the function .return the params.
+
+step 7:assign the values .print the output.
+
+step 8:end the program.
 
 ##PSEUDOCODE;
 
