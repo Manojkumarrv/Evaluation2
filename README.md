@@ -414,15 +414,15 @@ END
 
 ##ALGORITHM;
 
-step 1:
+step 1:start the program.
 
-step 2:
+step 2:enter an function .
 
-step 3:
+step 3:use arity method to find the number of params.
 
-step 4:
+step 4:call the arguments.print the program.
 
-step 5:
+step 5:stop.
 
 ##PSEUDOCODE;
 
@@ -439,15 +439,15 @@ END
 
 ##ALGORITHM;
 
-step 1:
+step 1:start the program .enter the function.
 
-step 2:
+step 2:return functions inside the function.
 
-step 3:
+step 3:return params and call the arguments.
 
-step 4:
+step 4:print the program.
 
-step 5:
+step 5:stop.
 
 ##PSEUDOCODE;
 
@@ -474,15 +474,12 @@ END
 
 ##ALGORITHM;
 
-step 1:
+step 1:start the program.
 
-step 2:
+step 2:write about ECMA6 as comments.
 
-step 3:
+step 3:stop .
 
-step 4:
-
-step 5:
 
 ##PSEUDOCODE;
 
@@ -525,15 +522,15 @@ step 5:
 
 ##ALGORITHM;
 
-step 1:
+step 1:start the program.
 
-step 2:
+step 2:enter the function without name and params.
 
-step 3:
+step 3:return the function. 
 
-step 4:
+step 4:print the program.
 
-step 5:
+step 5:stop.
 
 ##PSEUDOCODE;
 
