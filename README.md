@@ -127,15 +127,17 @@ END
 
 ##ALGORITHM;
 
-step 1:
+step 1:stert the program.enter CONST and create an function to define to that CONST. 
 
-step 2:
+step 2:create another function.
 
-step 3:
+step 3:use if statement to check the type of function.
 
-step 4:
+step 4:return the function using the another function.
 
-step 5:
+step 5:print the output.
+
+step 6:stop.
 
 ##PSEUDOCODE;
 
@@ -158,17 +160,15 @@ END
 
 ##ALGORITHM;
 
-step 1:
+step 1:start the program.enter the named function with params.
 
-step 2:
+step 2:use 'this' to specify particurly the params.
 
-step 3:
+step 3:create an CONST to define a new name and call the arguments. 
 
-step 4:
+step 4:print the output.
 
-step 5:
-
-step 6:
+step 5:stop.
 
 ##PSEUDOCODE;
 
