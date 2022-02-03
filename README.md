@@ -186,17 +186,19 @@ END
 
 ##ALGORITHM;
 
-step 1:
+step 1:start the program.enter the function.
 
-step 2:
+step 2:use 'this' to define the specific function or the params.
 
-step 3:
+step 3:print the output.
 
-step 4:
+step 4:start the program.enter the class function.
 
-step 5:
+step 5:use 'this' to define the specific values or to call several params into the class function.
 
-step 6:
+step 6:print the output.
+
+step 7:stop.
 
 ##PSEUDOCODE;
 
@@ -250,15 +252,15 @@ END
 
 ##ALGORITHM;
 
-step 1:
+step 1:start the program.
 
-step 2:
+step 2:enter the array values.
 
-step 3:
+step 3:use filter,map,reduce methods to filter,modify and reduce the array.
 
-step 4:
+step 4:print the output.
 
-step 5:
+step 5:stop.
 
 ##PSEUDOCODE;
 
