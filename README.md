@@ -57,15 +57,15 @@ END
 
 ##ALGORITHM;
 
-step 1:
+step 1:start the program.create two arrays.
 
-step 2:
+step 2:create an empty array.
 
-step 3:
+step 3:use for loop to run the loop.store the values in K.
 
-step 4:
+step 4:print the output.
 
-step 5:
+step 5:stop.
 
 ##PSEUDOCODE;
 
@@ -91,17 +91,19 @@ END
 
 ##ALGORITHM;
 
-step 1:
+step 1:start the program.enter the function.
 
-step 2:
+step 2:call the argument.print the program.
 
-step 3:
+step 3:create an anonymous function. call the function.
 
-step 4:
+step 4:print the output.
 
-step 5:
+step 5:create an function. call the function and assign values to the function.
 
-step 6:
+step 6:print the output.
+
+step 7:stop.
 
 ##PSEUDOCODE;
 
