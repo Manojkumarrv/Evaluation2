@@ -286,15 +286,15 @@ END
 
 ##ALGORITHM;
 
-step 1:
+step 1:start the program.entet the start and end values.
 
-step 2:
+step 2:use for loop to count the numbers and find the numbers with zeros.
 
-step 3:
+step 3:seperate zeros from the 10,20,...and store the zeros in the count.
 
-step 4:
+step 4:print the output.
 
-step 5:
+step 5:stop.
 
 ##PSEUDOCODE;
 
@@ -314,15 +314,15 @@ CONST end = 500;
 
 ##ALGORITHM;
 
-step 1:
+step 1:start the program.enter an function.
 
-step 2:
+step 2:form an emptuy array to store the values of the output.
 
-step 3:
+step 3:use spread method to find the minimum and maximum values.use indexof and push method to find the missing values in array.
 
-step 4:
+step 4:print the output.
 
-step 5:
+step 5:stop.
 
 ##PSEUDOCODE;
 
@@ -346,15 +346,15 @@ END
 
 ##ALGORITHM;
 
-step 1:
+step 1:start the program.enter an function.
 
-step 2:
+step 2:get the new date and year using 'date' and 'getfullyear'
 
-step 3:
+step 3:suntract the present year with the born year.
 
-step 4:
+step 4:print the output.
 
-step 5:
+step 5:stop.
 
 ##PSEUDOCODE;
 
@@ -373,15 +373,17 @@ END
 
 ##ALGORITHM;
 
-step 1:
+step 1:start the program.enter the values in value_a.
 
-step 2:
+step 2:then give value_b = value_a.
 
-step 3:
+step 3:print the output.
 
-step 4:
+step 4:using the different values write the program to call the reference.
 
-step 5:
+step 5:print the output.
+
+step 6:stop.
 
 ##PSEUDOCODE;
 
